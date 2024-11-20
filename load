@@ -1,0 +1,4 @@
+#!/bin/bash
+
+here="$(dirname ${BASH_SOURCE[0]})"
+xkbcomp $here/symbolboard2.xkb $DISPLAY

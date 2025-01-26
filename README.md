@@ -13,12 +13,12 @@ This layout by virtue of not requireing you to press symbol keys and placing all
 
 
 # xmodmap
-This is a successor to u [symbolboard](https://github.com/talwrii/symbolboard) that I used for a number of years and is based on xmodmap. However, I found issues with "cross platform" pieces of software like google chrome and obsidian, these acted as though they were always holding down the "ModeSwitch" button which broke this layout. These issues were resolved using the standard xkb layout.
+This is a successor to [symbolboard](https://github.com/talwrii/symbolboard) that I used for a number of years and is based on xmodmap. However, I found issues with "cross platform" pieces of software like Google Chrome and Obsidian; these acted as though they were always holding down the "ModeSwitch" button which broke the xmodmap layout. These issues were resolved using this xkb layout.
 
 # Installing
 
 * Clone this repo.
-* Run `./load`
+* Run `./symbolboard2`
 * Optionally do this by default when you log in.
 
 # Mappings

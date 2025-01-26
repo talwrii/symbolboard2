@@ -1,4 +1,5 @@
 # Symbolboard2
+@readwithai - [X](https://x.com/reawithai) - [blog](https://readwithai.substack.com)
 
 An ergonomic keyboard layout for linux (and [mac](https://github.com/talwrii/symbolboard-mac)).
 Provides many of the benefits of split, ergonomic keyboard with custom modifiers like the kinesis without having to buy, transport and use such a keyboard.
@@ -35,3 +36,9 @@ See also `zathura <(xkbprint :0 -o - | ps2pdf -).`
 
 ## Mappings with iso level 5 shift
 ![Default mappings](level5.png)
+
+
+# About me 
+I am [@readwithai](https://x.com/readwithai). I make tools for [productivity](https://readwithai.substack.com/p/obsidian-plugin-repl) and agency particularly related to deep reading and using [Obsidian](https://readwithai.substack.com/p/what-exactly-is-obsidian). If this sounds interesting you can follow me on [X](https://x.com/readwithai) or [substack](https://readwithai.substack.com). 
+
+If you find *this* piece of software useful you could consider paying me 5 dollars on my [ko-fi](https://ko-fi.com/readwithai).
